@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get User Data Based on Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91da0145-f3f4-4b13-90b1-822bbedfdcc1</testCaseGuid>
+</TestCaseEntity>
